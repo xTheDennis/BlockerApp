@@ -1,0 +1,5 @@
+/dist/
+/build/
+__pycache__/
+*.spec
+update_blocker.exe
