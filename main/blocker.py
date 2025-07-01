@@ -4,6 +4,9 @@ import threading
 import winsound
 import pygetwindow as gw
 import os
+from updater import check_for_updates
+
+check_for_updates()
 
 # Seiten, die blockiert werden sollen
 DANGEROUS_SITES = ["stake", "stake.com", "rainbet", "rainbet.com"]
