@@ -53,5 +53,5 @@ def monitor_windows():
         time.sleep(1)
 
 if __name__ == "__main__":
-    print("🚫 Ultra-Harter Spielsucht-Wächter aktiviert...")
+    print("🚫 Ultra-Harter Wächter aktiviert...")
     monitor_windows()
